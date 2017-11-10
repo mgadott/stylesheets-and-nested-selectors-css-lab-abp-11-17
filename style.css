@@ -19,3 +19,12 @@ header nav{
 	float: right;
 	margin-top: 25px;
 }
+
+h3#header {
+	font-size: 30px;
+	float: left;
+}
+
+h3#header a{
+	color: #ccc;
+}
