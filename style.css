@@ -6,7 +6,7 @@ header {
 	border-bottom: 1px solid #ccc;
 	height: 100px;
 }
- 
+
 header a {
 	text-decoration: none;
 }
@@ -19,4 +19,3 @@ header nav{
 	float: right;
 	margin-top: 25px;
 }
-
