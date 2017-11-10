@@ -35,7 +35,7 @@ header#h3 {
   font-size: 30px;
 }
 
-header#h3 a{
+h3#header a{
   text-decoration: none;
   color: #868e96;
 }
